@@ -1,0 +1,1 @@
+This is a react app which handles cart data and state with redux. Using thunks to create action functions which handle the async process of fetching data from a dummy firebase backend
